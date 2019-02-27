@@ -28,8 +28,8 @@ indicates that the echo was not received. If you have a configured basic monitor
    <CAPTION>Table 1. View and manage device monitoring</CAPTION>
    <THEAD>
    <TR>
-   <th>If the action to be taken is...</th>
-   <th>Then...</th>
+   <th>Action</th>
+   <th>Steps</th>
    </TR>
    </THEAD>
    <TBODY>
